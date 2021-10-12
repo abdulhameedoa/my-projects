@@ -1,0 +1,135 @@
+body {
+
+	color: #40514E;
+	margin: ;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+
+a {
+	color: royalblue;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	margin: 10px 20px;
+}
+
+a:hover {color: #EAF6F6;
+
+}
+h1 {
+	color: #66BFBF;
+	font-size: 4.575rem;
+	margin-top: 50px;
+	font-family: 'Sacramento', cursive;
+}
+h2 {
+	color: #66BFBF;
+	font-weight: normal;
+	font-size: 2.1rem;
+	font-family: 'Montserrat', sans-serif;
+}
+h3 {
+	color: #11999E;
+	font-family: 'Montserrat', sans-serif;
+}
+p {
+	line-height: 2;
+}
+.top-container {
+	background-color: #E4F9F5;
+	padding-top: 100px;
+	position: relative;
+}
+.middle-container {
+	margin: 100px 0;
+	background-color:;
+}
+.bottom-container {;
+	margin: ;
+	background-color: #66bfbf;
+	padding: 50px 0 20px;
+}
+.skill-row {
+	text-align: left;
+	width: 50%;
+	margin: 100px auto 100px auto;
+}
+
+.contact-message {
+	width: 40%;
+	margin: 40px auto 60px;
+}
+
+.top-cloud {
+position: absolute;
+top: 50px;
+right: 300px;
+}
+
+.bottom-cloud {
+	position: absolute;
+	left: 325px;
+	bottom:300px ;
+}
+
+.v-g-controller{
+	/*height: 250px;
+	width: 250px;*/
+	border-radius: 100%;
+	width: 25%;
+	float: right;
+	margin-right: 30px;
+}
+.computer{
+	/*height: 250px;
+	width: 250px;*/
+	border-radius: 100%;
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+.profile-pic{
+	/*height: 200px;
+	width: 200px;*/
+	width: 15%;
+	border-radius:;
+}
+hr {
+            width: 5%;
+            border-style: none;
+            border-width: 5px;   
+            border-color: lightgrey;
+            border-top-style: dotted;
+        }
+
+        .btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Montserrat;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cd;
+  background-image: -webkit-linear-gradient(top, #30e3cd, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cd, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cd, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cd, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cd, #2bc4ad);
+  text-decoration: none;
+}
+.copy-right{
+	color: #EAF6F6;
+
+
+}
